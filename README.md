@@ -2,7 +2,7 @@
 
 # Electricity Bill Calculator
 
-Nifty little program to draw up an electricity bill for a given tariff structure according to user-specificed date-time regions. Made with Python and Tkinter (plus some other libraries too).
+Nifty little program to draw up an electricity bill for a given tariff structure according to user-specified date-time regions. Made with Python and Tkinter (plus some other libraries too).
 
 ## Instructions
 
